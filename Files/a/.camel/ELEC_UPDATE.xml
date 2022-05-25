@@ -1,0 +1,19 @@
+<devUaaOperation>
+	<timeStamp>01-01-2022T01:01:01</timeStamp>
+	<location>
+
+	</location>
+	
+	<mRID>7</mRID>
+	<type>GAS_MBUS</type>
+	<armrRouter>VSDC</armrRouter>
+
+	<parameters>
+		
+		<parameter>
+			<name>ControlSate</name>
+			<value>On</value>
+		</parameter>
+	
+	</parameters>
+</devUaaOperation>

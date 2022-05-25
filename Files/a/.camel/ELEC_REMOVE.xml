@@ -1,0 +1,13 @@
+<devUaaOperation>
+	
+	<meterId>13</meterId>
+
+
+	<parameters>
+		<parameter>
+			<name>Tension</name>
+			<value>Continue</value>
+		</parameter>
+	
+	</parameters>
+</devUaaOperation>

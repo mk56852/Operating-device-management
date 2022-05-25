@@ -1,0 +1,21 @@
+<devUaaOperation>
+	<timeStamp>01-01-2022T01:01:01</timeStamp>
+	<location>
+		<longitude>27</longitude>
+		<latitude>23</latitude>
+		<region>TUNIS</region>
+	</location>
+	
+		<mRID>13</mRID>
+		<type>elec_plc</type>
+		<armrRouter>VSDC</armrRouter>
+
+	<parameters>
+		
+		<parameter>
+			<name>ControlSate</name>
+			<value>On</value>
+		</parameter>
+	
+	</parameters>
+</devUaaOperation>

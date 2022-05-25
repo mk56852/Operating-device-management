@@ -1,0 +1,22 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Meters">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Meter" maxOccurs="2000000" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="deviceName"/>
+              <xs:element type="xs:string" name="logicalDeviceName"/>
+              <xs:element type="xs:integer" name="key"/>
+              <xs:element type="xs:string" name="modelVersion"/>
+              <xs:element type="xs:string" name="communicationMethod"/>
+              <xs:element type="xs:string" name="hardwareVersion"/>
+              <xs:element type="xs:string" name="box"/>
+              <xs:element type="xs:string" name="firmwareVersion"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
